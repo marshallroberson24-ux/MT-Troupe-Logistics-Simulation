@@ -1,4 +1,4 @@
-# Troupe Freight Solutions — Simulated IAM Environment
+# MT Troupe Logistics — Simulated IAM Environment
 
 A fictional logistics company built to mirror MT Troupe Logistics, used as a hands-on
 portfolio project for identity and access management (IAM) analyst / identity security
