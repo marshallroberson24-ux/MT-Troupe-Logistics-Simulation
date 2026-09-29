@@ -1,13 +1,13 @@
 # MT Troupe Logistics — Simulated IAM Environment
 
-A fictional logistics company built to mirror MT Troupe Logistics, used as a hands-on
+A logistics company built to mirror MT Troupe Logistics, used as a hands-on
 portfolio project for identity and access management (IAM) analyst / identity security
 engineer roles. The goal is a single coherent narrative — one company, one identity
 architecture — rather than a set of disconnected labs.
 
 ## Company Profile
 
-Troupe Freight Solutions is a small logistics company with two distinct identity
+MT Troupe Logistics is a small logistics company with two distinct identity
 populations that require different access models:
 
 - **Workers (internal identities):** dispatch staff, ops/admin, and a rotating pool of
